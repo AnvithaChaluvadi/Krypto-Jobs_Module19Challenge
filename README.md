@@ -1,6 +1,10 @@
-## Unit 19 Homework: Cryptocurrency Wallet
+#### Module 19 Challenge: Cryptocurrency Wallet
+##### Anvitha Chaluvadi
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
+<p align="center">
+<img src = Images/krypto.gif width =40% height 30%=/>
+</p>
+
 
 ### Background
 
