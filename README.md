@@ -55,3 +55,7 @@ Once you receive the transaction’s hash code, you will navigate to the Transac
 <p align="center">
 <img src = Images/transactions_2.png width =80% height 30%=/>
 </p>
+
+<p align="center">
+<img src = Images/transactions_3.png width =80% height 30%=/>
+</p>
