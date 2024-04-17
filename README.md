@@ -39,8 +39,10 @@ Once you receive the transaction’s hash code, you will navigate to the Transac
 ### Streamlit
 
 <p align="center">
-<img src = Images/streamlit.jpg width =80% height 30%=/>
+<img src = Images/streamlit.jpg width =19.3% height 30%=/> <img src = Images/streamlit.gif width =78% height 30%=/>
 </p>
+
+
 
 ### Ganache
 
